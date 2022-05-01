@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Glaufelix
 - 👀 I’m interested in Data Analisys
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on quantitatives projects
+- 💞️ I’m looking to collaborate on quantitative projects
 
 
 <!---
