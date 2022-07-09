@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Glaufelix economist, financial Coordinator and data science aprentice
+- 👋 Hi, I’m @Glaufelix economist, Financial Coordinator and Data Science Apprentice
 - 👀 I’m interested in Data Analisys
 - 🌱 I’m currently learning Python, SQL and Power BI 
 - 💞️ I’m looking to collaborate on quantitative projects
