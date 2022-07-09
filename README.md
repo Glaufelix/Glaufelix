@@ -1,13 +1,13 @@
-- 👋 Hi, I’m @Glaufelix economista, coordenadora financeira e aprendiz de cientista de dados
+- 👋 Hi, I’m @Glaufelix economist, financial Coordinator and data science aprentice
 - 👀 I’m interested in Data Analisys
 - 🌱 I’m currently learning Python, SQL and Power BI 
 - 💞️ I’m looking to collaborate on quantitative projects
 
 
-<b> 🚀 **Linguagens e Ferramentas</b>:**
+<b> 🚀 **Languages and Tools</b>:**
 
  ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI)
- ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+ ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
  ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
  
