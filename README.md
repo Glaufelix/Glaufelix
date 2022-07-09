@@ -11,10 +11,10 @@
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
  ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
  
-  ![Snake animation](https://github.com/raquelcreis/raquelcreis/blob/output/github-contribution-grid-snake.svg)
- <br>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glaufelix&layout=compact)](https://github.com/glaufelix/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glaufelix&layout=compact)](https://github.com/glaufelix/github-readme-stats)
+![Snake animation](https://github.com/glaufelix/glaufelix/blob/output/github-contribution-grid-snake.svg)
+
 
 ##
 <b> :earth_americas: Where to find me:  </b>
