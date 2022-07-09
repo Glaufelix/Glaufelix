@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on quantitative projects
 
 ##
+
 <b> 🚀 **Languages and Tools</b>:**
 
  ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=Power-BI)
@@ -13,8 +14,7 @@
  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glaufelix&layout=compact)](https://github.com/glaufelix/github-readme-stats)
 
-![Snake animation](https://github.com/glaufelix/glaufelix/blob/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://github.com/glaufelix/glaufelix/blob/output/github-contribution-grid-snake.svg)<br>
 
 ##
 <b> :earth_americas: Where to find me:  </b>
