@@ -17,8 +17,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<a href="https://github.com/nataliagcarvalho">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliagcarvalho&layout=compact&langs_count=8&theme=dark"/>
+<a href="https://github.com/glaufelix">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glaufelix&layout=compact&langs_count=8&theme=dark"/>
 </a>
 
 <b> :earth_americas: Where to find me:  </b>
