@@ -7,7 +7,7 @@
 <b> 🚀 **Languages and Tools</b>:**
 
  ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI)
- ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+ ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-black?style=plastic&logo=microsoft-sql-server&logoColor=white)
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
  ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
  
